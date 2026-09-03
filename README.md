@@ -25,7 +25,7 @@ Pico 4 has an executable called `gd32ipdclient_test` which communicates with pic
 
 It is possible to switch the fan into test mode with `setfantestmode 1` subcommand and set it to constant speed with `setfantestspeed` subcommand.
 
-However, it appears it's possible to forcefully fully stop the fan and potentially cause overheating, so caution is needed. This is why i capped minimum speed at 50%.
+However, it appears that it's possible to forcefully fully stop the fan and potentially cause overheating, so caution is needed. This is why i capped minimum speed at 50%.
 
 ## Thanks
-- to [@chaixshot](https://github.com/chaixshot) for app design references.
+- to [@chaixshot](https://github.com/chaixshot) for pico dock app reference.
