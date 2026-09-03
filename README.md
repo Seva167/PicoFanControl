@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"/>
   
 # PicoFanControl
 ### Easy tool to override pico 4 fan speed with root
